@@ -11,6 +11,7 @@ The following hardware wallets (for all models, unless specified) are supported:
 - Jade
 - Keepkey
 - OneKey (Classic 1S and Pro)
+- UKey
 
 ## Example usage
 
